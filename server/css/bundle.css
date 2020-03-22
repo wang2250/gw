@@ -22716,9 +22716,9 @@ a {
       .members .members-group-wrap .member-card .member-meta .ant-card-meta-title {
         text-align: center; }
     .members .members-group-wrap .member-card .members-image {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
+      width: 150px;
+      height: 130px;
+   
       margin-bottom: 15px; }
     .members .members-group-wrap .member-card .members-info {
       font-size: 0.9rem;
